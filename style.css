@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    paddig: 0;
+    /* padding: 0; */
     box-sizing: border-box;
     font-family: 'Quicksand', sans-serif;
 }
@@ -62,7 +62,7 @@ nav{
 
 .sticky-triangle{
     position: absolute;
-    top: 40px;
+    top: 42px;
     right: 1265px;
     color: #6e338b;
 }
